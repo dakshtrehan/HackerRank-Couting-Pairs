@@ -1,5 +1,5 @@
 # HackerRank-Couting-Pairs
-### [Counting Pairs - HackerRank challenge solution](https://www.hackerrank.com/contests/womenscup/challenges/count-the-pairs)
+### [Counting Pairs - HackerRank challenge solution](https://www.geeksforgeeks.org/count-pairs-difference-equal-k/)
 
 
 Given an integer(k) and list of integers, count number of valid distinct pairs of integers(a,b) in list for which a+k=b. Two pairs of (a,b) and (c,d) are considered distinct if atleast one element of (a,b) doesn't belong to (c,d)
