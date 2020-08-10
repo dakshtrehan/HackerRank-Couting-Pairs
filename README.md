@@ -8,3 +8,5 @@ Given an integer(k) and list of integers, count number of valid distinct pairs o
 n=4 <p>
 numbers=[1,1,1,2] <p>
 k=1
+  
+The array has two valid pairs (1,1) and (1,2). For k=1, there is only one valid pair that satisfies a+k=b; the pair (a,b)=(1,2).
