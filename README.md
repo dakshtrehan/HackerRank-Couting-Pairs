@@ -1,4 +1,4 @@
-# HackerRank-Couting-Pairs
+# HackerRank-Counting-Pairs
 ### [Counting Pairs - HackerRank challenge solution](https://www.geeksforgeeks.org/count-pairs-difference-equal-k/)
 
 
